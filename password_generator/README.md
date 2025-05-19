@@ -10,6 +10,6 @@ This project is for the purpose of generating a password that fits the general c
 
 <hr>
 Please credit me using my GitHub user name if you are using this for a project <br>
-Have fun with the code <br>
+Have fun with the code <hr>
 
 > Time-complexity: O(N), Space-complexity: O(N)
