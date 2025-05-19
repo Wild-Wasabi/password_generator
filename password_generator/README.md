@@ -1,18 +1,15 @@
-## Getting Started
+## Password Generator
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This project is for the purpose of generating a password that fits the general criteria of secure passwords:
+- Generates a random password that meets the following criteria:
+- At least 1 uppercase letter (A-Z)
+- At least 1 lowercase letter (a-z)
+- At least 1 digit (0-9)
+- At least 1 special character (e.g., !@#$%^&*()-_=+[]{}|;:'",.<>?/`~)
+- The password must be at least 8 characters long, up to 20 characters long
 
-## Folder Structure
+<hr>
+Please credit me using my GitHub user name if you are using this for a project <br>
+Have fun with the code
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+> Time-complexity: O(N), Space-complexity: O(N)
