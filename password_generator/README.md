@@ -12,4 +12,4 @@ This project is for the purpose of generating a password that fits the general c
 Please credit me using my GitHub user name if you are using this for a project <br>
 Have fun with the code <hr>
 
-> Time-complexity: O(N), Space-complexity: O(N)
+> Time-complexity: O(N), Space-complexity: O(N) 
